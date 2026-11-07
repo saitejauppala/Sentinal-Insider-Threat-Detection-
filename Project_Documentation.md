@@ -3,10 +3,10 @@
 **BACHELOR OF TECHNOLOGY IN COMPUTER SCIENCE AND ENGINEERING**
 
 **BY**
-* S.MANJULA DEVI (24501A05M5)
-* V.LALITH KUMAR REDDY (24501A05P4)
-* S.BHARGAVA SAI (24501A05K2)
-* SHEIK TASMIYA (24501A05L6)
+* T PAVANI (24501A05N7)
+* T RAM SAI (24501A05N3)
+* U SAITEJA (25501A0523)
+* SK MUBEEN (24501A05K9)
 
 **PRASAD V POTLURI SIDDHARTHA INSTITUTE OF TECHNOLOGY**
 (Permanently affiliated to JNTU Kakinada, Approved by AICTE)
@@ -17,7 +17,7 @@ Kanuru, Vijayawada – 520007
 ---
 
 ## CERTIFICATE
-This is to certify that the project report title “SENTINEL — AI-Powered Insider Threat Detection & Behavioural Monitoring” is the bonafied work of S.Manjula Devi (24501A05M5), V.Lalith Kumar Reddy (24501A05P4), S.Bhargava Sai (24501A05K2), Sheik Tasmiya (24501A05L6) in partial fulfilment of completing the Academic project in Data Warehousing & Data Mining during the academic year 2025-26.
+This is to certify that the project report title “SENTINEL — AI-Powered Insider Threat Detection & Behavioural Monitoring” is the bonafied work of T PAVANI (24501A05N7),T RAM SAI (24501A05N3), U SAITEJA (25501A0523), SK MUBEEN (24501A05K9) in partial fulfilment of completing the Academic project in Data Warehousing & Data Mining during the academic year 2025-26.
 
 ---
 
